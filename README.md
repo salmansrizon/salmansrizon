@@ -104,5 +104,5 @@
 
 [American International University-Bangladesh (AIUB)](https://www.aiub.edu/ "American International University-Bangladesh, commonly known by its acronym AIUB, is an accredited and reputed private university in Dhaka, Bangladesh.")
 <br>
-`Computer Science and Engineering (CSE)` <font size = "1"><em>( Jan'13 - Dec'16a )</em></font>
+`Computer Science and Engineering (CSE)` <font size = "1"><em>( Jan'13 - Dec'16 )</em></font>
 <br/>
