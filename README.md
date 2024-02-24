@@ -4,7 +4,7 @@
 "><p>I am Senior Buyer Growth analyst at Daraz. I assist data to become insight-driven business decisions. Developing data-driven solutions,Converting data into meaningful stories and Optimizing work process efficiency are my key strengths. A typical day for me involves adding value by turning data into meaningful solutions, insights and strategies.
 </p></font>
 
-[🖨️](https://docs.google.com/document/d/1XIpTM78UkIP0JpLyOUkCe2sLfl7op9xRY8XGqVgVji8/edit#heading=h.uud634hqlgqm/ "Download Resume Here")
+[🖨️](https://drive.google.com/file/d/1UTi9Kx_bqog8-tmKuz0RzQ0HWkrW7UFG/view?usp=sharing "Download Resume Here")
 
 ## Experience  👨‍💻
 
