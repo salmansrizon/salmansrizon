@@ -21,6 +21,7 @@ insights and support informed decision-making.
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
    <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+   <img alt="jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
     <img alt="GeoPandas" src="https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square&logo=GeoPandas&logoColor=white" />
     <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
     <img alt="pytorch" src="https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
