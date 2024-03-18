@@ -1,11 +1,53 @@
+
 ### Hi 👋
 
 <font size = "2.7
-"><p>I am Senior Buyer Growth analyst at Daraz. I assist data to become insight-driven business decisions. Developing data-driven solutions,Converting data into meaningful stories and Optimizing work process efficiency are my key strengths. A typical day for me involves adding value by turning data into meaningful solutions, insights and strategies.
+"><p>I am a highly motivated and results-oriented Data Analyst with 6+ years of experience in the e-commerce and fintech industries.
+Possesses a strong understanding of data analysis principles, data mining techniques, and proficiency in various data
+analysis tools and software. Proven ability to collect, clean, analyze, and interpret large datasets to generate actionable
+insights and support informed decision-making.
 </p></font>
+
+<a alt ="salmansrizon2016@gmail.com" href="mailto:salmansrizon2016@gmail.com">Want to hear more about me ?</a>
 
 [🖨️](https://drive.google.com/file/d/1UTi9Kx_bqog8-tmKuz0RzQ0HWkrW7UFG/view?usp=sharing "Download Resume Here")
 
+
+<h4>Things I use</h4>
+<p>
+ <img alt="Python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
+ <img alt="JavaScript" src="https://img.shields.io/badge/-javaScript-F7DF1E?style=flat-square&logo=javaScript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+   <img alt="pandas" src="https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    <img alt="GeoPandas" src="https://img.shields.io/badge/-GeoPandas-139C5A?style=flat-square&logo=GeoPandas&logoColor=white" />
+    <img alt="tensorflow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img alt="pytorch" src="https://img.shields.io/badge/-pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+     <img alt="fastapi" src="https://img.shields.io/badge/-fastapi-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img alt="dbt" src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+    <img alt=".ENV" src="https://img.shields.io/badge/-.ENV-ECD53F?style=flat-square&logo=.ENV&logoColor=black" /> 
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="microsoftsqlserver" src="https://img.shields.io/badge/-microsoftsqlserver-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img alt="Looker studio" src="https://img.shields.io/badge/-Looker-4285F4?style=flat-square&logo=Looker&logoColor=white" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white" />
+  <img alt="powerbi" src="https://img.shields.io/badge/-powerbi-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+    <img alt="microsoftexcel" src="https://img.shields.io/badge/-microsoftexcel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="visualstudiocode" src="https://img.shields.io/badge/-visualstudiocode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  
+</p>
 ## Experience  👨‍💻
 
 
@@ -106,3 +148,12 @@
 <br>
 `Computer Science and Engineering (CSE)` <font size = "1"><em>( Jan'13 - Dec'16 )</em></font>
 <br/>
+
+<h4>Also Find me here</h4>
+<p>
+<a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/salman-srizon-252b79125/" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=black" /></a> 
+<a href="https://twitter.com/SalmansakibRox" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.novypro.com/profile_about/salmansrizon" target="_blank"><img alt="novypro" src="https://img.shields.io/badge/novypro-%2312100E.svg?&style=for-the-badge&logo=novypro&logoColor=white" /></a>
+  <a href="tel:+8801682359817" target="_blank"><img alt="W" src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</p>
