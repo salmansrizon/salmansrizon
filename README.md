@@ -156,5 +156,5 @@ insights and support informed decision-making.
 <a href="https://www.linkedin.com/in/salman-srizon-252b79125/" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=black" /></a> 
 <a href="https://twitter.com/SalmansakibRox" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.novypro.com/profile_about/salmansrizon" target="_blank"><img alt="novypro" src="https://img.shields.io/badge/novypro-%2312100E.svg?&style=for-the-badge&logo=novypro&logoColor=white" /></a>
-  <a href="tel:+8801682359817" target="_blank"><img alt="W" src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://wa.me/01682359817" target="_blank"><img alt="tel:+8801682359817" src="https://img.shields.io/badge/whatsapp-25D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
